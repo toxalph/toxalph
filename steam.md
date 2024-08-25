@@ -1,4 +1,8 @@
-<input type="color" onchange="document.getElementById('color').innerText = this.value;">  <span id="color"></span>
+## Color Picker
+
+Use this color picker to get the hex code for changing the Steam Status text color:
+
+<input type="color" onchange="document.getElementById('color').innerText = 'Hex code: ' + this.value;">  <span id="color"></span>
 
 ## How to Get Your Steam API Key, User ID, and Set Your Status to Public
 
