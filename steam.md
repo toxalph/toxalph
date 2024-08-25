@@ -1,12 +1,6 @@
 # Steam Status
 
-## Second Life Marketplace
-
-You can obtain the Steam Status accessory by purchasing it on the [Second Life Marketplace](https://marketplace.secondlife.com/en-US/stores/261651).
-
-## Color Picker
-
-Use this color picker to get the hex code for changing the Steam Status text color:
+Welcome to the Setup Instructions for the Steam Status accessory. You can obtain the [Steam Status accessory via the Second Life Marketplace](https://marketplace.secondlife.com/en-US/stores/261651). There is also a color picker tool below which you can use to get the hex code you will need for changing the Steam Status text color:
 
 <input type="color" onchange="document.getElementById('color').innerText = 'Hex code: ' + this.value;">  <span id="color"></span>
 
