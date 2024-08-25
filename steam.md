@@ -1,4 +1,6 @@
-## How to Get Your Steam API Key, User ID, and Set Your Profile to Public
+<input type="color" id="favcolor" name="favcolor" value="#ff0000">
+
+## How to Get Your Steam API Key, User ID, and Set Your Status to Public
 
 ### 1. Get Your Steam API Key
 
