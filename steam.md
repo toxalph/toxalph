@@ -1,3 +1,5 @@
+# Steam Status
+
 ## Second Life Marketplace
 
 You can obtain the Steam Status accessory by purchasing it on the [Second Life Marketplace](https://marketplace.secondlife.com/en-US/stores/261651).
@@ -10,13 +12,13 @@ Use this color picker to get the hex code for changing the Steam Status text col
 
 ## Setup Instructions
 
-You will need both a Steam API Key and your Steam User ID, each which can be obtained with the following steps. Once obtained, click the Steam Status accessory in Second Life to input your Steam API Key and your Steam User ID. You will also need to set your Steam Friends status to **Online**.
+You will need both a **Steam API Key** and your **Steam User ID**, each which can be obtained with the following steps. Once obtained, click the Steam Status accessory in Second Life to input your Steam API Key and your Steam User ID. You will also need to set your Steam Friends status to **Online**.
 
 ### 1. Get Your Steam API Key
 
 1. **Log into Steam**: Open your web browser and go to the [Steam website](https://store.steampowered.com/). Log in with your Steam account.
    
-2. **Go to the Steam API Key Page**: Navigate to the [Steam Web API Key registration page](https://steamcommunity.com/dev/apikey). You may be prompted to install **Steam Guard Mobile Authenticator**. If so, follow the installation instructions and return to then [Steam Web API Key registration page](https://steamcommunity.com/dev/apikey).
+2. **Go to the Steam API Key Page**: Navigate to the [Steam Web API Key registration page](https://steamcommunity.com/dev/apikey). You may be prompted to install Steam Guard Mobile Authenticator. If so, follow the installation instructions and then return to the [Steam Web API Key registration page](https://steamcommunity.com/dev/apikey).
 
 3. **Generate Your API Key**:
    - If you don't already have an API key, you'll see a form asking for a domain name. You can enter any domain name (even a placeholder like "localhost").
