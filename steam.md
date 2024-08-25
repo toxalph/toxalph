@@ -1,6 +1,5 @@
-<input type="color" onchange="document.getElementById('color').innerText = this.value;">
- 
-<span id="color"></span>
+<input type="color" onchange="document.getElementById('color').innerText = this.value;">  <span id="color"></span>
+
 ## How to Get Your Steam API Key, User ID, and Set Your Status to Public
 
 ### 1. Get Your Steam API Key
