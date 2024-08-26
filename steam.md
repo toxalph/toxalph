@@ -18,6 +18,7 @@ You will need both a **Steam API Key** and your **Steam User ID**, each which ca
    - If you don't already have an API key, you'll see a form asking for a domain name. You can enter any domain name (even a placeholder like "localhost").
    - Agree to the terms, and click on **"Register"**.
    - Your API key will be generated and displayed on the page.
+   - Click on the Steam Status accessory in Second Life and choose **Enter API Key**. You can then copy the API key and paste it into the box: ![key.png](key.png)
 
 ### 2. Find Your Steam User ID
 
