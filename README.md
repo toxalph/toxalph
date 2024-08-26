@@ -1,6 +1,7 @@
 <script>
   (async () => {
-    const repos = await fetch('https://api.github.com/repos/:user/:repo/contents/');
+    const user = location.path.replace(/\//g, '');
+    const repos = await fetch(`https://api.github.com/repos/${user}/${user}/contents/`);
     let html = '<ul>';
     for (let file of await repos.json()) {
       let parts = file.name.split('.');
