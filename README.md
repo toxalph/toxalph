@@ -1,3 +1,4 @@
+<style>body {padding: 20px;}</style>
 <script>
   (async () => {
     const user = location.pathname.replace(/\//g, '');
