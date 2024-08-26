@@ -18,7 +18,7 @@ You will need both a **Steam API Key** and your **Steam User ID**, each which ca
    - If you don't already have an API key, you'll see a form asking for a domain name. You can enter any domain name (even a placeholder like "localhost").
    - Agree to the terms, and click on **"Register"**.
    - Your API key will be generated and displayed on the page.
-   - Click on the Steam Status accessory in Second Life and choose **Enter API Key**. You can then copy the API key and paste it into the box: <br><br><center><img width="300" src="key.png"/></center>
+   - Click on the Steam Status accessory in Second Life and choose **Enter API Key**. You can then copy the API key and paste it into the box: <br><br><img width="300" src="key.png"/>
 
 ### 2. Find Your Steam User ID
 
@@ -29,7 +29,7 @@ Your Steam user ID is a unique identifier for your account. You can find it in s
   2. Look at the URL in your browser's address bar. It will look something like this: `https://steamcommunity.com/id/YourCustomID/` or `https://steamcommunity.com/profiles/12345678901234567/`.
   3. If your URL is in the format `/profiles/12345678901234567/`, then `12345678901234567` is your Steam user ID.
   4. If your URL is in the format `/id/YourCustomID/`, you'll need to look it up by using third-party services like [SteamID.io](https://steamid.io/) or converting it by logging into Steam and checking under your account details.
-  5. - Click on the Steam Status accessory in Second Life and choose **Enter user ID**. You can then copy the ID and paste it into the box: <br><br><center><img width="300" src="uid.png"/></center>
+  5. Click on the Steam Status accessory in Second Life and choose **Enter user ID**. You can then copy the ID and paste it into the box: <br><br><img width="300" src="uid.png"/>
 
 ### 3. Make Sure Your Steam Friends status is set to Online
 
